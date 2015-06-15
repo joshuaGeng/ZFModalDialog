@@ -2,7 +2,7 @@
 //  AppDelegate.h
 //  ZFModalDialog
 //
-//  Created by PATEO on 15/6/15.
+//  Created by 耿中飞 on 15/6/15.
 //  Copyright (c) 2015年 Joshua. All rights reserved.
 //
 
